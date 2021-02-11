@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Felipe Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipelipe12&show_icons=true&bg_color=#00008B)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=felipelipe12&theme=algolia)
+https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers
