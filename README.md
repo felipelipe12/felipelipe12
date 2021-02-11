@@ -4,7 +4,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=felipelipe12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=felipelipe12)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipelipe12&langs_count=8)](https://github.com/felipelipe12/github-readme-stats)
