@@ -2,4 +2,4 @@
 
 ![Felipe Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipelipe12&show_icons=true&title_color=FFFF00&text_color=FFFFFF&icon_color=1E90FF&bg_color=00008B)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=felipelipe12)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=felipelipe12&bg_color=00008B&color=FFFFFF&line=FFFF00&point=1E90FF)
