@@ -1,26 +1,5 @@
-### Hi there 👋
-
-<!--
-**felipelipe12/felipelipe12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Felipe Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipelipe12&show_icons=true&hide_border=false)
+![Felipe Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipelipe12&show_icons=true&theme=algolia)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=felipelipe12&theme=algolia)
-https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=felipelipe12)
