@@ -42,7 +42,7 @@
 <p> My contributions. </p>
 <p align="center">
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&currStreakLabel=4169E1&fire=4169E1&ring=5094F0" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&currStreakLabel=4169E1&fire=4169E1&ring=5094F0margin-w=5" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelipe12&langs_count=8" />
   </p>
   <img src="https://github-readme-stats.vercel.app/api?username=felipelipe12&show_icons=true" />
