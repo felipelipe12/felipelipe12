@@ -1,9 +1,6 @@
-## Teste
+## 🧠 Teste
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipelipe12&show_icons=true" />
-</p>
-
+## 👨‍💻 Languages
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -14,6 +11,12 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
+## Tools
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipelipe12&show_icons=true" />
+</p>
+
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -23,3 +26,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipelipe12&langs_count=8)](https://github.com/felipelipe12/github-readme-stats)
 
 <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" />
+
+## 🏆 Github Trophies
+
+## Ferramentas
+
