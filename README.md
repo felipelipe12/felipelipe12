@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Controller-Github-5094F0?style=flat&logo=github&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Social-LinkedIn-5094F0?style=flat&logo=linkedin&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Social-Stack_Overflow-5094F0?style=flat&logo=overflow&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Social-Stack_Overflow-5094F0?style=flat&logo=stackoverflow&logoColor=FFFFFF" />
 </p>
 
 
