@@ -34,7 +34,7 @@
 
 <p> My achievements on Github. </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=felipelipe12&theme=flat" />
+  <img src="https://github-profile-trophy.vercel.app/?username=felipelipe12&theme=flat&margin-w=5" />
 </p>
 
 
