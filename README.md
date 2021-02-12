@@ -16,7 +16,8 @@
   <img src="https://img.shields.io/badge/PHP-FFFFFF?style=for-the-badge&logo=php&logoColor=5094F0" />
   <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=5094F0" />
   <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=5094F0" />
-  <img src="https://img.shields.io/badge/cms-WordPress-5094F0?style=for-the-badge&logo=wordpress&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-5094F0?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Cms-WordPress-5094F0?style=for-the-badge&logo=wordpress&logoColor=FFFFFF" />
 </p>
 
 
