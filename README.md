@@ -1,7 +1,7 @@
 # 🚧 About me! 🚧 ----------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="75" />
+  <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="100" />
 </p>
 <p align="center"> Correndo pra finalizar o README.md </p>
 
@@ -43,11 +43,9 @@
 
 <p> My contributions. </p>
 <p align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelipe12&langs_count=8" />
-  </p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipelipe12&currStreakLabel=4169E1&fire=4169E1&ring=5094F0&margin-w=5" />
-    <img src="https://github-readme-stats.vercel.app/api?username=felipelipe12&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelipe12&langs_count=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipelipe12&currStreakLabel=4169E1&fire=4169E1&ring=5094F0&margin-w=5" />
+  <img src="https://github-readme-stats.vercel.app/api?username=felipelipe12&show_icons=true" />
 </p>
 
 ## 🚧 Highlight Projects 🚧 ----------------------------------------------------------------------------------------------------------------------------
