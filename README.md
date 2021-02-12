@@ -31,7 +31,7 @@
 
 ## 🏆 Github Trophies
 
-<p> My achievements in the network. </p>
+<p> My achievements on Github. </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=felipelipe12&theme=onedark" />
 </p>
