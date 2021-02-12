@@ -17,7 +17,6 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 ## Tools ----------------------------------------------------------------------------------------------------------------------------
 
@@ -34,6 +33,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=felipelipe12&theme=onedark" />
 </p>
+
 
 ## 🏆 Github Stats ----------------------------------------------------------------------------------------------------------------------------
 
