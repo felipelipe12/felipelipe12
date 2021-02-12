@@ -7,7 +7,6 @@
 ## Languages & Technologies
 
 <p align="center">
-
   <img src="https://img.shields.io/badge/Code-HTML5-5094F0?style=flat&logo=html5&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Code-CSS3-5094F0?style=flat&logo=css3&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Code-JavaScript-5094F0?style=flat&logo=javascript&logoColor=FFFFFF" />
@@ -25,9 +24,9 @@
 
 <p> Follow me on the socials. </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Controller-Github-5094F0?style=flat&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Social-LinkedIn-5094F0?style=flat&logo=linkedin&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Social-Stack_Overflow-5094F0?style=flat&logo=overflow&logoColor=FFFFFF" />
 </p>
 
 ## Github Trophies
