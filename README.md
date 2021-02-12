@@ -39,7 +39,7 @@
 
 ## Github Stats
 
-<p> My contribui. </p>
+<p> My contributions. </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=felipelipe12&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelipe12&langs_count=8" />
