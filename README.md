@@ -28,14 +28,14 @@
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </p>
 
-## 🏆 Github Trophies ----------------------------------------------------------------------------------------------------------------------------
+## 🏆 Github Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=felipelipe12&theme=onedark" />
 </p>
 
 
-## 🏆 Github Stats ----------------------------------------------------------------------------------------------------------------------------
+## 📈 Github Stats ----------------------------------------------------------------------------------------------------------------------------
 
 ![](https://github-readme-stats.vercel.app/api?username=felipelipe12&show_icons=true)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=felipelipe12&langs_count=8)](https://github.com/felipelipe12/github-readme-stats)
