@@ -23,7 +23,7 @@
 ## To study
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-SCSS-5094F0?style=flat&logo=scss&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Code-SASS-5094F0?style=flat&logo=sass&logoColor=FFFFFF" />
 </p>
 
 ## Socials
