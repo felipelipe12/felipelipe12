@@ -27,6 +27,12 @@
   <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=5094F0" />
   <img src="https://img.shields.io/badge/PHP-FFFFFF?style=for-the-badge&logo=php&logoColor=5094F0" />
   <img src="https://img.shields.io/badge/Bootstrap-FFFFFF?style=for-the-badge&logo=bootstrap&logoColor=5094F0" />
+
+</p>
+
+### Database
+
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=5094F0" />
   <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=5094F0" />
 </p>
