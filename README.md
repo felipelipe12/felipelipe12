@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-FFFFFF?style=for-the-badge&logo=bootstrap&logoColor=5094F0" />
 </p>
 
-### Back-End ----------------------------------------------------------------------------------------------------------------------------
+### Back-End
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=5094F0" />
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=5094F0" />
 </p>
 
-### Frameworks & CMS ----------------------------------------------------------------------------------------------------------------------------
+### Frameworks & CMS
 
 <p align="center">
   <img src="https://img.shields.io/badge/WordPress-FFFFFF?style=for-the-badge&logo=wordpress&logoColor=5094F0" />
