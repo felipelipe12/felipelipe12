@@ -6,6 +6,7 @@
 
 ## 👨‍💻 Languages & Technologies
 
+
 ### Front-End
 
 <p align="center">
@@ -30,11 +31,10 @@
   <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=5094F0" />
 </p>
 
-### Frameworks & CMS's
+### Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WordPress-FFFFFF?style=for-the-badge&logo=wordpress&logoColor=5094F0" />
-  <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=5094F0" />
+  <img src="https://img.shields.io/badge/cms-WordPress-5094F0?style=for-the-badge&logo=wordpress&logoColor=FFFFFF" />
 </p>
 
 ## 🗨️ Socials
