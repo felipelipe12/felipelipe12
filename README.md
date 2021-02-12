@@ -22,13 +22,11 @@
 
 ## 🗨️ Socials
 
-<p align
-
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</div>
+</p>
 
 ## 🏆 Github Trophies ----------------------------------------------------------------------------------------------------------------------------
 
@@ -44,3 +42,7 @@
 
 
 ## 📁 Highlight Projects ----------------------------------------------------------------------------------------------------------------------------
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=felipelipe12.felipelipe12" alt="visitor badge"/>
+</p>
