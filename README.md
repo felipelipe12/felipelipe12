@@ -14,10 +14,10 @@
   <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=5094F0" />
   <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=5094F0" />
   <img src="https://img.shields.io/badge/PHP-FFFFFF?style=for-the-badge&logo=php&logoColor=5094F0" />
-  <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=5094F0" />
-  <img src="https://img.shields.io/badge/Database-MySQL-5094F0?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-5094F0?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Cms-WordPress-5094F0?style=for-the-badge&logo=wordpress&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Code-PHP-5094F0?style=flat&logo=php&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Database-MySQL-5094F0?style=flat&logo=mysql&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-5094F0?style=flat&logo=postgresql&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/CMS-WordPress-5094F0?style=flat&logo=wordpress&logoColor=FFFFFF" />
 </p>
 
 
