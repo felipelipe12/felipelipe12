@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Code-HTML5-5094F0?style=flat&logo=html5&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Code-CSS3-5094F0?style=flat&logo=css3&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Code-JavaScript-5094F0?style=flat&logo=javascript&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Code-Bootstrap-5094F0?style=flat&logo=bootstrap&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Framework-Bootstrap-5094F0?style=flat&logo=bootstrap&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Code-Python-5094F0?style=flat&logo=python&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Code-JAVA-5094F0?style=flat&logo=java&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Code-PHP-5094F0?style=flat&logo=php&logoColor=FFFFFF" />
