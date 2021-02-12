@@ -38,8 +38,11 @@
 
 ## 📈 Github Stats ----------------------------------------------------------------------------------------------------------------------------
 
-![](https://github-readme-stats.vercel.app/api?username=felipelipe12&show_icons=true)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=felipelipe12&langs_count=8)](https://github.com/felipelipe12/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelipe12&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=felipelipe12&show_icons=true" />
+</p>
+
 
 ## 📁 Highlight Projects ----------------------------------------------------------------------------------------------------------------------------
 
