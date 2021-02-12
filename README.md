@@ -20,6 +20,11 @@
   <img src="https://img.shields.io/badge/CMS-WordPress-5094F0?style=flat&logo=wordpress&logoColor=FFFFFF" />
 </p>
 
+## To study
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-SCSS-5094F0?style=flat&logo=scss&logoColor=FFFFFF" />
+</p>
 
 ## Socials
 
