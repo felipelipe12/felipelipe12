@@ -13,9 +13,9 @@
   <img src="https://img.shields.io/badge/JavaScript-EFD81D?style=flat&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat&logo=bootstrap&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Code-JAVA-5094F0?style=flat&logo=java&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/JAVA-E51F24?style=flat&logo=java&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/PHP-7377AD?style=flat&logo=php&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Database-MySQL-5094F0?style=flat&logo=mysql&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/MySQL-EA8C10?style=flat&logo=mysql&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/WordPress-007095?style=flat&logo=wordpress&logoColor=FFFFFF" />
 </p>
