@@ -14,10 +14,10 @@
   <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat&logo=bootstrap&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Code-JAVA-5094F0?style=flat&logo=java&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Code-PHP-5094F0?style=flat&logo=php&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/PHP-7377AD?style=flat&logo=php&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Database-MySQL-5094F0?style=flat&logo=mysql&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-5094F0?style=flat&logo=postgresql&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/CMS-WordPress-5094F0?style=flat&logo=wordpress&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/WordPress-007095?style=flat&logo=wordpress&logoColor=FFFFFF" />
 </p>
 
 ## To study
