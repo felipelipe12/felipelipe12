@@ -12,6 +12,11 @@
   <img src="https://img.shields.io/badge/CSS_3-1E90FF?style=flat&logo=css3&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/JavaScript-EFD81D?style=flat&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat&logo=bootstrap&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/JAVA-E51F24?style=flat&logo=java&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/PHP-7377AD?style=flat&logo=php&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/MySQL-EA8C10?style=flat&logo=mysql&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/WordPress-007095?style=flat&logo=wordpress&logoColor=FFFFFF" />
 </p>
 
 ## To study
@@ -27,11 +32,8 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/JAVA-E51F24?style=flat&logo=java&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/PHP-7377AD?style=flat&logo=php&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/MySQL-EA8C10?style=flat&logo=mysql&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/WordPress-007095?style=flat&logo=wordpress&logoColor=FFFFFF" />
+
+
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   
