@@ -17,18 +17,19 @@
   <img src="https://img.shields.io/badge/MySQL-EA8C10?style=flat&logo=mysql&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/WordPress-007095?style=flat&logo=wordpress&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
 </p>
 
 ## To study
 
 <p align="center">
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=FFFFFF" />
