@@ -46,20 +46,19 @@
 
   <!-- CMS's & Frameworks -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=34495E" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/Xamarin-3498DB?style=flat&logo=xamarin&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-
 </p>
 
 ## Socials
 
 <p> Follow me on the socials. </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Github-5094F0?style=flat&logo=github&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/LinkedIn-5094F0?style=flat&logo=linkedin&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Stack_Overflow-5094F0?style=flat&logo=stackoverflow&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=FFFFFF" />
 </p>
 
 
