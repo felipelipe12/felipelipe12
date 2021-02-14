@@ -14,8 +14,8 @@
   <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat&logo=bootstrap&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/JAVA-E51F24?style=flat&logo=java&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/MySQL-EA8C10?style=flat&logo=mysql&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/WordPress-007095?style=flat&logo=wordpress&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
