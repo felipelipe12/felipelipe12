@@ -36,12 +36,13 @@
   
   <!-- Back-End -->
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular_JS-E23237?style=flat&logo=angularjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF" />
 
   <!-- CMS's & Frameworks -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
@@ -56,9 +57,9 @@
 
 <p> Follow me on the socials. </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Controller-Github-5094F0?style=flat&logo=github&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Social-LinkedIn-5094F0?style=flat&logo=linkedin&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Social-Stack_Overflow-5094F0?style=flat&logo=stackoverflow&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Github-5094F0?style=flat&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/LinkedIn-5094F0?style=flat&logo=linkedin&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Stack_Overflow-5094F0?style=flat&logo=stackoverflow&logoColor=FFFFFF" />
 </p>
 
 
