@@ -13,19 +13,26 @@
   <img src="https://img.shields.io/badge/CSS_3-1E90FF?style=flat&logo=css3&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/JavaScript-EFD81D?style=flat&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat&logo=bootstrap&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/JAVA-E51F24?style=flat&logo=java&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/PHP-7377AD?style=flat&logo=php&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/MySQL-EA8C10?style=flat&logo=mysql&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/WordPress-007095?style=flat&logo=wordpress&logoColor=FFFFFF" />
 </p>
 
 ## To study
 
 <p align="center">
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/JAVA-E51F24?style=flat&logo=java&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/PHP-7377AD?style=flat&logo=php&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/MySQL-EA8C10?style=flat&logo=mysql&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/WordPress-007095?style=flat&logo=wordpress&logoColor=FFFFFF" />
 </p>
 
 ## Socials
@@ -35,6 +42,11 @@
   <img src="https://img.shields.io/badge/Controller-Github-5094F0?style=flat&logo=github&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Social-LinkedIn-5094F0?style=flat&logo=linkedin&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Social-Stack_Overflow-5094F0?style=flat&logo=stackoverflow&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 </p>
 
 
@@ -54,10 +66,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=felipelipe12&show_icons=true" alt="a+" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelipe12&langs_count=8" alt="language" />
 </p>
-
-Exemplo   | Valor do exemplo
---------- | ------
-Exemplo 1 | <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 
 
 ## 🚧 Highlight Projects 🚧 ----------------------------------------------------------------------------------------------------------------------------
