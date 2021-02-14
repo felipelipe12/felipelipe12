@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML_5-E34F26?style=flat&logo=html5&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/CSS_3-1E90FF?style=flat&logo=css3&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/CSS_3-1572B6?style=flat&logo=css3&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/JavaScript-EFD81D?style=flat&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat&logo=bootstrap&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/JAVA-E51F24?style=flat&logo=java&logoColor=FFFFFF" />
