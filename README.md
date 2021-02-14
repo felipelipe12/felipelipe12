@@ -8,6 +8,7 @@
 ## Languages & Technologies
 
 <p align="center">
+  <!-- Front-End -->
   <img src="https://img.shields.io/badge/HTML_5-E34F26?style=flat&logo=html5&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/CSS_3-1572B6?style=flat&logo=css3&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" />
@@ -16,7 +17,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/WordPress-007095?style=flat&logo=wordpress&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
 </p>
