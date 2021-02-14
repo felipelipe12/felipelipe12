@@ -37,7 +37,7 @@
   <!-- Back-End -->
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Angular_JS-E23237?style=flat&logo=angularjs&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=FFFFFF" />
