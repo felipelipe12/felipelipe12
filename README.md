@@ -10,10 +10,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML_5-E34F26?style=flat&logo=html5&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/CSS_3-1572B6?style=flat&logo=css3&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/JavaScript-EFD81D?style=flat&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat&logo=bootstrap&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/JAVA-E51F24?style=flat&logo=java&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/PHP-7377AD?style=flat&logo=php&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/MySQL-EA8C10?style=flat&logo=mysql&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/WordPress-007095?style=flat&logo=wordpress&logoColor=FFFFFF" />
