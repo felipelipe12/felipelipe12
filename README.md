@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/WordPress-007095?style=flat&logo=wordpress&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-0769AD?style=flat&logo=mariadb&logoColor=white" />
 </p>
 
 ## To study
@@ -32,7 +33,7 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/MariaDB-0769AD?style=flat&logo=mariadb&logoColor=white" />
+
 
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
