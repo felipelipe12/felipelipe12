@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=FFFFFF" />
   
   <!-- Back-End -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/JAVA-E51F24?style=flat&logo=java&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=FFFFFF" />
   
@@ -35,6 +34,7 @@
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=FFFFFF" />
   
   <!-- Back-End -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Angular_JS-E23237?style=flat&logo=angularjs&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" />
