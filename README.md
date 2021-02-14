@@ -7,6 +7,7 @@
 
 ## Languages & Technologies
 
+#### Front-End
 <p align="center">
   <img src="https://img.shields.io/badge/HTML_5-F06529?style=flat&logo=html5&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/CSS_3-1E90FF?style=flat&logo=css3&logoColor=FFFFFF" />
@@ -24,6 +25,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white">
 </p>
 
 ## Socials
@@ -52,6 +54,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=felipelipe12&show_icons=true" alt="a+" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelipe12&langs_count=8" alt="language" />
 </p>
+
+Exemplo   | Valor do exemplo
+--------- | ------
+Exemplo 1 | <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+
 
 ## 🚧 Highlight Projects 🚧 ----------------------------------------------------------------------------------------------------------------------------
 
