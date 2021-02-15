@@ -10,8 +10,8 @@
 | Span <td colspan=3>triple  <td colspan=2>double
   
 | Teste <td colspan=2>
-| - | -
-| Oi|teste
+|-|-
+| Oi | teste
 
   <img src="https://progress-bar.dev/59/" />
   <img src="https://progress-bar.dev/60?title=Oi&color=000000" />
