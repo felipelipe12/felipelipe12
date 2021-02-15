@@ -8,7 +8,7 @@
 
   <img src="https://progress-bar.dev/59" />
 
-## Languages & Technologies
+# Languages & Technologies
 <!-------------------------------------------------------------------------- Languages & Technologies -------------------------------------------------------------------------->
 
 <p align="center">
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=FFFFFF" />
 </p>
 
-## To study
+# To study
 <!---------------------------------------------------------------------------------- To study ---------------------------------------------------------------------------------->
 
 <p align="center">
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=FFFFFF" />
 </p>
 
-## Socials
+# Socials
 <!----------------------------------------------------------------------------------- Socials ---------------------------------------------------------------------------------->
 
 <p> Follow me on the socials. </p>
@@ -68,7 +68,7 @@
 </p>
 
 
-## Github Trophies
+# Github Trophies
 <!------------------------------------------------------------------------------- Github Trophies ------------------------------------------------------------------------------>
 
 <p> My achievements on Github. </p>
@@ -77,7 +77,7 @@
 </p>
 
 
-## 🚧 Github Stats 🚧
+# 🚧 Github Stats 🚧
 <!-------------------------------------------------------------------------------- Github Stats -------------------------------------------------------------------------------->
 
 <p> My contributions. </p>
@@ -88,7 +88,7 @@
 </p>
 
 
-## Highlight Projects
+# Highlight Projects
 <!----------------------------------------------------------------------------- Highlight Projects ----------------------------------------------------------------------------->
 
 <p> My best projects and contributions. </p>
