@@ -5,6 +5,13 @@
 </p>
 <p align="center"> Correndo pra finalizar o README.md </p>
 
+| Attempt |
+| ------- | --- | --- |
+| Seconds | 301 | 283 |
+
+  <img src="https://progress-bar.dev/59/" />
+  <img src="https://progress-bar.dev/60?title=Oi&color=000000" />
+
 ## Languages & Technologies
 
 <p align="center">
