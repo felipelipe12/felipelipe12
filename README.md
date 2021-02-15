@@ -11,6 +11,7 @@
 # Languages & Technologies
 <!-------------------------------------------------------------------------- Languages & Technologies -------------------------------------------------------------------------->
 
+<p> Technologies I master. </p>
 <p align="center">
   <!-- Front-End -->
   <img src="https://img.shields.io/badge/HTML_5-E34F26?style=flat&logo=html5&logoColor=FFFFFF" />
@@ -34,6 +35,7 @@
 # To study
 <!---------------------------------------------------------------------------------- To study ---------------------------------------------------------------------------------->
 
+<p> Technologies to study soon. </p>
 <p align="center">
   <!-- Front-End -->
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=FFFFFF" />
