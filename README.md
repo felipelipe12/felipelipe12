@@ -5,35 +5,6 @@
 </p>
 <p align="center"> Correndo pra finalizar o README.md </p>
 
-<div align="center" display="inline">
-  <div float="left">
-    <table>
-      <thead>
-        <tr>
-          <th colspan="2"> Text </th>
-        </tr>
-      </thead>
-      <tbody>
-        <td> Po </td>
-        <td> <img src="https://progress-bar.dev/59" /> </td>
-      </tbody>
-    </table>
-  </div>
-  <div float="right">
-  <table>
-    <thead>
-      <tr>
-        <th colspan="2"> Text </th>
-      </tr>
-    </thead>
-    <tbody>
-      <td> Po </td>
-      <td> <img src="https://progress-bar.dev/59" /> </td>
-    </tbody>
-  </table>
-  </div>
-</div>
-
   <img src="https://progress-bar.dev/59" />
 
 ## Languages & Technologies
