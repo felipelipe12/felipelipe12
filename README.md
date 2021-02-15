@@ -40,14 +40,14 @@
   
   <!-- Back-End -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Angular_JS-E23237?style=flat&logo=angularjs&logoColor=FFFFFF" />
+   <!-- <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=FFFFFF" /> -->
+   <!-- <img src="https://img.shields.io/badge/Angular_JS-E23237?style=flat&logo=angularjs&logoColor=FFFFFF" /> -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF" />
+   <!-- <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=FFFFFF" /> -->
+   <!-- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=FFFFFF" /> -->
+   <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF" /> -->
 
   <!-- CMS's & Frameworks -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=FFFFFF" />
