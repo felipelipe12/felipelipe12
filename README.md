@@ -58,7 +58,7 @@
 
 <p> Follow me on the socials. </p>
 <p align="center">
-  <a href="google.com"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=FFFFFF" /></a>
+  <a href="https://google.com"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=FFFFFF" /></a>
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=FFFFFF" />
 </p>
