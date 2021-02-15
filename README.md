@@ -5,13 +5,17 @@
 </p>
 <p align="center"> Correndo pra finalizar o README.md </p>
 
-| One    | Two | Three | Four    | Five  | Six
-|-|-|-|-|-|-
-| Span <td colspan=3>triple  <td colspan=2>double
-  
-| Teste <td colspan=2>
-|-|-
-| Oi | teste
+<table>
+  <thead>
+    <tr>
+      <th colspan="2"> Text </th>
+    </tr>
+  </thead>
+  <tbody>
+    <td> <img src="https://progress-bar.dev/59/" /> </td>
+    <td> Po </td>
+  </tbody>
+</table>
 
   <img src="https://progress-bar.dev/59/" />
   <img src="https://progress-bar.dev/60?title=Oi&color=000000" />
