@@ -5,8 +5,8 @@
 </p>
 <p align="center"> Correndo pra finalizar o README.md </p>
 
-<div style="display: flex;">
-<table style="flex-shrink: 0;">
+<div style="display: inline;">
+<table>
   <thead>
     <tr>
       <th colspan="2"> Text </th>
