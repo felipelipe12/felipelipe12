@@ -5,7 +5,7 @@
 </p>
 <p align="center"> Correndo pra finalizar o README.md </p>
 
-<div align="center">
+<div align="center" display="inline">
   <div float="left">
     <table>
       <thead>
