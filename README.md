@@ -91,9 +91,9 @@
 ## 🚧 Highlight Projects 🚧
 <!----------------------------------------------------------------------------- Highlight Projects ----------------------------------------------------------------------------->
 
+<p> My projects and contributions. </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=felipelipe12&repo=Sefaz" />
 </p>
 
 <!--<p align="center">
