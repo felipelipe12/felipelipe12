@@ -5,6 +5,7 @@
 </p>
 <p align="center"> Correndo pra finalizar o README.md </p>
 
+<div align="center">
 <table>
   <thead>
     <tr>
@@ -13,7 +14,7 @@
   </thead>
   <tbody>
     <td> Po </td>
-    <td> <img src="https://progress-bar.dev/59/" /> </td>
+    <td> <img src="https://progress-bar.dev/59" /> </td>
   </tbody>
 </table>
 
@@ -25,11 +26,10 @@
   </thead>
   <tbody>
     <td> Po </td>
-    <td> <img src="https://progress-bar.dev/59/" /> </td>
-    <td> Po </td>
-    <td> <img src="https://progress-bar.dev/59/" /> </td>
+    <td> <img src="https://progress-bar.dev/59" /> </td>
   </tbody>
 </table>
+</div>
 
   <img src="https://progress-bar.dev/59" />
 
