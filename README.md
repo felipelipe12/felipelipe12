@@ -31,7 +31,7 @@
       <td> <img src="https://progress-bar.dev/59" /> </td>
     </tbody>
   </table>
-  </div
+  </div>
 </div>
 
   <img src="https://progress-bar.dev/59" />
