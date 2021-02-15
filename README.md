@@ -89,7 +89,7 @@
 </p>
 
 
-## 🚧 Highlight Projects 🚧
+## Highlight Projects
 <!----------------------------------------------------------------------------- Highlight Projects ----------------------------------------------------------------------------->
 
 <p> My best projects and contributions. </p>
