@@ -12,13 +12,26 @@
     </tr>
   </thead>
   <tbody>
-    <td> <img src="https://progress-bar.dev/59/" /> </td>
     <td> Po </td>
+    <td> <img src="https://progress-bar.dev/59/" /> </td>
   </tbody>
 </table>
 
-  <img src="https://progress-bar.dev/59/" />
-  <img src="https://progress-bar.dev/60?title=Oi&color=000000" />
+<table>
+  <thead>
+    <tr>
+      <th colspan="2"> Text </th>
+    </tr>
+  </thead>
+  <tbody>
+    <td> Po </td>
+    <td> <img src="https://progress-bar.dev/59/" /> </td>
+    <td> Po </td>
+    <td> <img src="https://progress-bar.dev/59/" /> </td>
+  </tbody>
+</table>
+
+  <img src="https://progress-bar.dev/59" />
 
 ## Languages & Technologies
 
