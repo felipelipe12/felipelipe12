@@ -6,7 +6,7 @@
 <p align="center"> Correndo pra finalizar o README.md </p>
 
 <div align="center">
-  <div style="float: left;">
+  <div float="left">
     <table>
       <thead>
         <tr>
@@ -19,7 +19,7 @@
       </tbody>
     </table>
   </div>
-  <div style="float: right;">
+  <div float="right">
   <table>
     <thead>
       <tr>
