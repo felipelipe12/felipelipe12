@@ -91,6 +91,11 @@
 ## 🚧 Highlight Projects 🚧
 <!----------------------------------------------------------------------------- Highlight Projects ----------------------------------------------------------------------------->
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</p>
+
 <!--<p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=felipelipe12.felipelipe12" alt="visitor badge"/>
 </p>-->
