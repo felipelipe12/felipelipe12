@@ -6,7 +6,7 @@
 <p align="center"> Correndo pra finalizar o README.md </p>
 
 <div style="display: flex;">
-<table>
+<table style="flex-shrink: 0;">
   <thead>
     <tr>
       <th colspan="2"> Text </th>
