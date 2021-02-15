@@ -5,7 +5,7 @@
 </p>
 <p align="center"> Correndo pra finalizar o README.md </p>
 
-<div align="center">
+<p align="center">
 <table>
   <thead>
     <tr>
@@ -29,7 +29,7 @@
     <td> <img src="https://progress-bar.dev/59" /> </td>
   </tbody>
 </table>
-</div>
+</p>
 
   <img src="https://progress-bar.dev/59" />
 
