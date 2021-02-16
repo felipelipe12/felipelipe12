@@ -28,7 +28,8 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
   
   <!-- Version controller -->
-  <img src="https://img.shields.io/badge/Git-003545?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=FFFFFF" />
   
   <!-- CMS's e Frameworks -->
   <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat&logo=bootstrap&logoColor=FFFFFF" />
@@ -67,7 +68,6 @@
 
 <p> Follow me on the socials. </p>
 <p align="center">
-  <a href="https://google.com"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=FFFFFF" /></a>
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=FFFFFF" />
 </p>
