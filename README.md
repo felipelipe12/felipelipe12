@@ -27,6 +27,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
   
+  <!-- Version controller -->
+  <img src="https://img.shields.io/badge/Git-003545?style=flat&logo=git&logoColor=white" />
+  
   <!-- CMS's e Frameworks -->
   <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat&logo=bootstrap&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=FFFFFF" />
