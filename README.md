@@ -13,7 +13,7 @@
   <img src="https://progress-bar.dev/100" />
   
   <table>
-    <th colspan=2>Personality</th>
+    <th colspan=2>Test</th>
     <tr>
       <td>da</td>
       <td><img src="https://progress-bar.dev/100" /></td>
