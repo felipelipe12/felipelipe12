@@ -12,8 +12,8 @@
   <img src="https://progress-bar.dev/80" />
   <img src="https://progress-bar.dev/100" />
   
-  <div>
   <div align=center>
+  <div>
   <table>
     <th colspan=2>Test</th>
     <tr>
@@ -23,7 +23,7 @@
   </table>
   </div>
   
-  <div align=right>
+  <div>
   <table>
     <th colspan=2>Test</th>
     <tr>
