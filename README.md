@@ -106,8 +106,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=felipelipe12&repo=felipelipe12.github.io" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=felipelipe12&repo=Sefaz" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=felipelipe12&repo=felipelipe12.github.io" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=felipelipe12&repo=Sefaz" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=felipelipe12&repo=felipelipe12.github.io" />
 </p>
 
 <!--<p align="center">
