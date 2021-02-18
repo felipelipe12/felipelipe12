@@ -12,6 +12,7 @@
   <img src="https://progress-bar.dev/80" />
   <img src="https://progress-bar.dev/100" />
   
+  <div>
   <div align=center>
   <table>
     <th colspan=2>Test</th>
@@ -30,6 +31,7 @@
       <td><img src="https://progress-bar.dev/100" /></td>
     </tr>
   </table>
+  </div>
   </div>
 
 # Languages & Technologies
