@@ -6,7 +6,7 @@
 </p>
 <p align="center"> Correndo pra finalizar o README.md </p>
 
-  <img src="https://progress-bar.dev/00/ee" />
+  <img src="https://progress-bar.dev/00" />
   <img src="https://progress-bar.dev/10" />
   <img src="https://progress-bar.dev/59" />
   <img src="https://progress-bar.dev/80" />
@@ -102,6 +102,10 @@
 
 <p> My best projects and contributions. </p>
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=felipelipe12&repo=Sefaz" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=felipelipe12&repo=felipelipe12.github.io" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=felipelipe12&repo=Sefaz" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=felipelipe12&repo=felipelipe12.github.io" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=felipelipe12&repo=Sefaz" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=felipelipe12&repo=felipelipe12.github.io" />
 </p>
