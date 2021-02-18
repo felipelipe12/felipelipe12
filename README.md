@@ -8,6 +8,7 @@
 
   <img src="https://progress-bar.dev/59" />
   <img src="https://progress-bar.dev/80" />
+  <img src="https://progress-bar.dev/100" />
 
 # Languages & Technologies
 <!-------------------------------------------------------------------------- Languages & Technologies -------------------------------------------------------------------------->
