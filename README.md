@@ -13,6 +13,11 @@
   <img src="https://progress-bar.dev/100" />
   
   <table>
+    <th colspan=2>ewqweqe</th>
+    <tr>
+      <td>da</td>
+      <td>sd</td>
+    </tr>
   </table>
 
 # Languages & Technologies
