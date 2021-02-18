@@ -21,6 +21,16 @@
     </tr>
   </table>
   </div>
+  
+  <div align=right>
+  <table>
+    <th colspan=2>Test</th>
+    <tr>
+      <td>da</td>
+      <td><img src="https://progress-bar.dev/100" /></td>
+    </tr>
+  </table>
+  </div>
 
 # Languages & Technologies
 <!-------------------------------------------------------------------------- Languages & Technologies -------------------------------------------------------------------------->
