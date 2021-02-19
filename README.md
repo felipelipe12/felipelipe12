@@ -6,12 +6,6 @@
 </p>
 <p align="center"> Correndo pra finalizar o README.md </p>
 
-  <img src="https://progress-bar.dev/00" />
-  <img src="https://progress-bar.dev/10" />
-  <img src="https://progress-bar.dev/59" />
-  <img src="https://progress-bar.dev/80" />
-  <img src="https://progress-bar.dev/100" />
-
 <div>
   <table align="right">
     <th colspan=2>Test</th>
@@ -29,6 +23,14 @@
     </tr>
   </table>
 </div>
+
+  <img src="https://progress-bar.dev/00" />
+  <img src="https://progress-bar.dev/10" />
+  <img src="https://progress-bar.dev/59" />
+  <img src="https://progress-bar.dev/80" />
+  <img src="https://progress-bar.dev/100" />
+
+
 
 # Languages & Technologies
 <!-------------------------------------------------------------------------- Languages & Technologies -------------------------------------------------------------------------->
