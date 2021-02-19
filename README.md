@@ -32,11 +32,11 @@
   </table>
 </div>
 
-  <img src="https://progress-bar.dev/00" />
-  <img src="https://progress-bar.dev/10" />
-  <img src="https://progress-bar.dev/59" />
-  <img src="https://progress-bar.dev/80" />
-  <img src="https://progress-bar.dev/100" />
+<img src="https://progress-bar.dev/00" />
+<img src="https://progress-bar.dev/10" />
+<img src="https://progress-bar.dev/59" />
+<img src="https://progress-bar.dev/80" />
+<img src="https://progress-bar.dev/100" />
 
 
 
