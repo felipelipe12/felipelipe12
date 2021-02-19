@@ -15,6 +15,14 @@
     </tr>
   </table>
   
+  <table align="center">
+    <th colspan=2>Test</th>
+    <tr>
+      <td>da</td>
+      <td><img src="https://progress-bar.dev/100" /></td>
+    </tr>
+  </table>
+  
   <table align="left">
     <th colspan=2>Test</th>
     <tr>
