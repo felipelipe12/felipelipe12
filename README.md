@@ -12,7 +12,7 @@
   <img src="https://progress-bar.dev/80" />
   <img src="https://progress-bar.dev/100" />
 
-  <div align="left">
+  <div align="right">
   <table>
     <th colspan=2>Test</th>
     <tr>
