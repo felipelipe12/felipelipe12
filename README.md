@@ -15,7 +15,7 @@
     </tr>
   </table>
   
-  <table align="center">
+  <table align="right">
     <th colspan=2>Test</th>
     <tr>
       <td>da</td>
