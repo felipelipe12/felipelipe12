@@ -7,7 +7,7 @@
 <p align="center"> Correndo pra finalizar o README.md </p>
 
 <div>
-  <table align="right">
+  <table>
     <th colspan=2>Test</th>
     <tr>
       <td>da</td>
@@ -15,7 +15,7 @@
     </tr>
   </table>
   
-  <table align="right">
+  <table>
     <th colspan=2>Test</th>
     <tr>
       <td>da</td>
@@ -23,7 +23,7 @@
     </tr>
   </table>
   
-  <table align="left">
+  <table>
     <th colspan=2>Test</th>
     <tr>
       <td>da</td>
