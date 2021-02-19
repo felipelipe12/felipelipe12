@@ -13,7 +13,7 @@
   <img src="https://progress-bar.dev/100" />
 
   <div>
-  <table float="right">
+  <table align="right">
     <th colspan=2>Test</th>
     <tr>
       <td>da</td>
