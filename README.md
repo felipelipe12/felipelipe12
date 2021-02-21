@@ -24,31 +24,25 @@
       </td>
     </tr>
   </table>
-</div>
   
   <table>
-    <th colspan=2>Test</th>
     <tr>
-      <td>da</td>
-      <td><img src="https://progress-bar.dev/100" /></td>
-    </tr>
-  </table>
-  
-  <table>
-    <th colspan=2>Test</th>
-    <tr>
-      <td>da</td>
-      <td><img src="https://progress-bar.dev/100" /></td>
+      <td>
+        <table>
+          <th colspan=2>Skills</th>
+          <tr>
+            <td>da</td>
+            <td><img src="https://progress-bar.dev/100" /></td>
+          </tr>
+          <tr>
+            <td>da</td>
+            <td><img src="https://progress-bar.dev/100" /></td>
+          </tr>
+        </table>
+      </td>
     </tr>
   </table>
 </div>
-
-<img src="https://progress-bar.dev/00" />
-<img src="https://progress-bar.dev/10" />
-<img src="https://progress-bar.dev/59" />
-<img src="https://progress-bar.dev/80" />
-<img src="https://progress-bar.dev/100" />
-
 
 
 # Languages & Technologies
