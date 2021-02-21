@@ -22,11 +22,6 @@
           </tr>
         </table>
       </td>
-    </tr>
-  </table>
-  
-  <table>
-    <tr>
       <td>
         <table>
           <th colspan=2>Skills</th>
