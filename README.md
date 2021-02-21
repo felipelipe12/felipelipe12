@@ -6,7 +6,7 @@
 </p>
 <p align="center"> Correndo pra finalizar o README.md </p>
 
-<div>
+<div align="center">
   <table>
     <tr>
       <td>
