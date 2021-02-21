@@ -124,7 +124,7 @@
 <p> My contributions. </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=felipelipe12&show_icons=true" alt="a+" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelipe12&langs_count=8&" alt="language" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelipe12&langs_count=3" alt="language" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipelipe12&currStreakLabel=4169E1&fire=4169E1&ring=5094F0&margin-w=5" alt="fire" />
 </p>
 
