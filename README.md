@@ -6,22 +6,25 @@
 </p>
 <p align="center"> Correndo pra finalizar o README.md </p>
 
-<table>
-  <tr>
-    <td>
-      <table>
-        <th colspan=2>Dedication</th>
-        <tr>
-          <td>da</td>
-          <td><img src="https://progress-bar.dev/100" /></td>
-        </tr>
-        <tr>
-          <td>da</td>
-          <td><img src="https://progress-bar.dev/100" /></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<div>
+  <table>
+    <tr>
+      <td>
+        <table>
+          <th colspan=2>Skills</th>
+          <tr>
+            <td>da</td>
+            <td><img src="https://progress-bar.dev/100" /></td>
+          </tr>
+          <tr>
+            <td>da</td>
+            <td><img src="https://progress-bar.dev/100" /></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
   
   <table>
     <th colspan=2>Test</th>
