@@ -20,7 +20,7 @@
   </table>
   
   <table>
-    <th colspan=2>Test</th>
+    <th colspan=2 color="red">Test</th>
     <tr>
       <td>da</td>
       <td><img src="https://progress-bar.dev/100" /></td>
