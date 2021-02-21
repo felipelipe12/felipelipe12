@@ -10,7 +10,11 @@
   <tr>
     <td>
       <table>
-        <th colspan=2>Test</th>
+        <th colspan=2>Dedication</th>
+        <tr>
+          <td>da</td>
+          <td><img src="https://progress-bar.dev/100" /></td>
+        </tr>
         <tr>
           <td>da</td>
           <td><img src="https://progress-bar.dev/100" /></td>
