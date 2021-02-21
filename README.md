@@ -127,7 +127,7 @@
     <th colspan=2>Graphics</th>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=felipelipe12&show_icons=true" alt="a+" /></td>
-      <td rowspan=2><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelipe12&langs_count=&&" alt="language" /></td>
+      <td rowspan=2><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelipe12" alt="language" /></td>
     </tr>
     <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=felipelipe12&currStreakLabel=4169E1&fire=4169E1&ring=5094F0&margin-w=5" alt="fire" /></td>
