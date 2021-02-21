@@ -10,7 +10,7 @@
 </p>
 <p align="center"> Correndo pra finalizar o README.md </p>
 
-<div>
+<div align="center">
   <table>
     <th colspan=2>Test</th>
     <tr>
