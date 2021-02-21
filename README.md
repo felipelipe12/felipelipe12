@@ -2,22 +2,22 @@
 <!-------------------------------------------------------------------------- Languages & Technologies -------------------------------------------------------------------------->
 
 <p align="center">
-  <img src="https://www.canva.com/design/DAEWtt1eXPY/nrfww5ZD9BIUAPNeJnaEyw/view?utm_content=DAEWtt1eXPY&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu" />
-</p>
-
-<p align="center">
   <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="100" />
 </p>
 <p align="center"> Correndo pra finalizar o README.md </p>
 
-<div align="center">
-  <table>
-    <th colspan=2>Test</th>
-    <tr>
-      <td>da</td>
-      <td><img src="https://progress-bar.dev/100" /></td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td>
+      <table>
+        <th colspan=2>Test</th>
+        <tr>
+          <td>da</td>
+          <td><img src="https://progress-bar.dev/100" /></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
   
   <table>
     <th colspan=2>Test</th>
