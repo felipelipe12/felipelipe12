@@ -25,7 +25,7 @@
       </td>
       <td>
         <table>
-          <th colspan=2>Skills</th>
+          <th colspan=2>Personality</th>
           <tr>
             <td>da</td>
             <td><img src="https://progress-bar.dev/100" /></td>
