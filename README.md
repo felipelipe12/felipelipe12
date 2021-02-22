@@ -19,7 +19,7 @@
           </tr>
           <tr>
             <td>da</td>
-            <td><img src="https://progress-bar.dev/100" /></td>
+            <td><img src="https://progress-bar.dev/80" /></td>
           </tr>
         </table>
       </td>
