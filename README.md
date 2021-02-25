@@ -36,6 +36,23 @@
           </tr>
         </table>
       </td>
+      <td>
+        <table>
+          <th colspan=2>Pr</th>
+          <tr>
+            <td>Front</td>
+            <td><img src="https://progress-bar.dev/85" /></td>
+          </tr>
+          <tr>
+            <td>Back-End</td>
+            <td><img src="https://progress-bar.dev/60" /></td>
+          </tr>
+          <tr>
+            <td>Database</td>
+            <td><img src="https://progress-bar.dev/45" /></td>
+          </tr>
+        </table>
+      </td>
     </tr>
   </table>
 </div>
