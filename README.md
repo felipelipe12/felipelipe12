@@ -38,7 +38,7 @@
       </td>
       <td>
         <table>
-          <th colspan=2>Pr</th>
+          <th colspan=2>Programming Skill</th>
           <tr>
             <td>Front</td>
             <td><img src="https://progress-bar.dev/85" /></td>
