@@ -49,7 +49,7 @@
           </tr>
           <tr>
             <td>Database</td>
-            <td><img src="https://progress-bar.dev/45" /></td>
+            <td><img src="https://progress-bar.dev/50" /></td>
           </tr>
         </table>
       </td>
