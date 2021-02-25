@@ -32,7 +32,7 @@
           <th colspan=2>Concepts</th>
           <tr>
             <td>UX / UI</td>
-            <td><img src="https://progress-bar.dev/100" /></td>
+            <td><img src="https://progress-bar.dev/75" /></td>
           </tr>
           <tr>
             <td>da</td>
