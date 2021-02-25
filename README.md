@@ -12,10 +12,31 @@
     <tr>
       <td>
         <table>
-          <th colspan=2>Skills</th>
+          <th colspan=2>Programming Skill</th>
+          <tr>
+            <td>Front-End</td>
+            <td><img src="https://progress-bar.dev/85" /></td>
+          </tr>
+          <tr>
+            <td>Back-End</td>
+            <td><img src="https://progress-bar.dev/60" /></td>
+          </tr>
+          <tr>
+            <td>Database</td>
+            <td><img src="https://progress-bar.dev/50" /></td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <th colspan=2>Concepts</th>
+          <tr>
+            <td>UX / UI</td>
+            <td><img src="https://progress-bar.dev/100" /></td>
+          </tr>
           <tr>
             <td>da</td>
-            <td><img src="https://progress-bar.dev/100" /></td>
+            <td><img src="https://progress-bar.dev/80" /></td>
           </tr>
           <tr>
             <td>da</td>
@@ -33,23 +54,6 @@
           <tr>
             <td>da</td>
             <td><img src="https://progress-bar.dev/100" /></td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <th colspan=2>Programming Skill</th>
-          <tr>
-            <td>Front</td>
-            <td><img src="https://progress-bar.dev/85" /></td>
-          </tr>
-          <tr>
-            <td>Back-End</td>
-            <td><img src="https://progress-bar.dev/60" /></td>
-          </tr>
-          <tr>
-            <td>Database</td>
-            <td><img src="https://progress-bar.dev/50" /></td>
           </tr>
         </table>
       </td>
