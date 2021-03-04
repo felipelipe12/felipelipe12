@@ -4,25 +4,24 @@
 <p align="center">
   <!--<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="100" />-->
 </p>
-<p align="center"> Correndo pra finalizar o README.md </p>
 
 <div align="center">
   <table>
     <tr>
       <td>
         <table>
-          <th colspan=2>Programming Skill</th>
+          <th colspan=2>Personality</th>
           <tr>
-            <td>Front-End</td>
-            <td><img src="https://progress-bar.dev/88" /></td>
+            <td>Initiative</td>
+            <td><img src="https://progress-bar.dev/72" /></td>
           </tr>
           <tr>
-            <td>Back-End</td>
-            <td><img src="https://progress-bar.dev/63" /></td>
+            <td>Support</td>
+            <td><img src="https://progress-bar.dev/83" /></td>
           </tr>
           <tr>
-            <td>Database</td>
-            <td><img src="https://progress-bar.dev/46" /></td>
+            <td>Team Work</td>
+            <td><img src="https://progress-bar.dev/44" /></td>
           </tr>
         </table>
       </td>
