@@ -32,15 +32,15 @@
           <th colspan=2>Concepts</th>
           <tr>
             <td>UX / UI</td>
-            <td><img src="https://progress-bar.dev/75" /></td>
+            <td><img src="https://progress-bar.dev/77" /></td>
           </tr>
           <tr>
             <td>da</td>
-            <td><img src="https://progress-bar.dev/80" /></td>
+            <td><img src="https://progress-bar.dev/0" /></td>
           </tr>
           <tr>
             <td>da</td>
-            <td><img src="https://progress-bar.dev/80" /></td>
+            <td><img src="https://progress-bar.dev/0" /></td>
           </tr>
         </table>
       </td>
@@ -49,15 +49,15 @@
           <th colspan=2>Personality</th>
           <tr>
             <td>Initiative</td>
-            <td><img src="https://progress-bar.dev/100" /></td>
+            <td><img src="https://progress-bar.dev/72" /></td>
           </tr>
           <tr>
             <td>Support</td>
-            <td><img src="https://progress-bar.dev/100" /></td>
+            <td><img src="https://progress-bar.dev/83" /></td>
           </tr>
           <tr>
             <td>Team Work</td>
-            <td><img src="https://progress-bar.dev/100" /></td>
+            <td><img src="https://progress-bar.dev/44" /></td>
           </tr>
         </table>
       </td>
