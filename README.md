@@ -31,7 +31,7 @@
         <table>
           <th colspan=2>Concepts</th>
           <tr>
-            <td>UX / UI</td>
+            <td><img src="https://www.vg-resource.com/uploads/avatars/avatar_2092.gif?dateline=1429483910" width="150" /></td>
           </tr>
         </table>
       </td>
