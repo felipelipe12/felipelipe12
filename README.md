@@ -48,11 +48,11 @@
         <table>
           <th colspan=2>Personality</th>
           <tr>
-            <td>da</td>
+            <td>Initiative</td>
             <td><img src="https://progress-bar.dev/100" /></td>
           </tr>
           <tr>
-            <td>da</td>
+            <td>Support</td>
             <td><img src="https://progress-bar.dev/100" /></td>
           </tr>
         </table>
