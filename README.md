@@ -11,17 +11,55 @@
   <table>
     <tr>
       <td>
-        Oi
+        <table>
+          <th colspan=2>Programming Skill</th>
+          <tr>
+            <td>Front-End</td>
+            <td><img src="https://progress-bar.dev/88" /></td>
+          </tr>
+          <tr>
+            <td>Back-End</td>
+            <td><img src="https://progress-bar.dev/63" /></td>
+          </tr>
+          <tr>
+            <td>Database</td>
+            <td><img src="https://progress-bar.dev/46" /></td>
+          </tr>
+        </table>
       </td>
-    </tr>
-    <tr>
       <td>
-        Oi
+        <table>
+          <th colspan=2>Concepts</th>
+          <tr>
+            <td>UX / UI</td>
+            <td><img src="https://progress-bar.dev/77" /></td>
+          </tr>
+          <tr>
+            <td>da</td>
+            <td><img src="https://progress-bar.dev/0" /></td>
+          </tr>
+          <tr>
+            <td>da</td>
+            <td><img src="https://progress-bar.dev/0" /></td>
+          </tr>
+        </table>
       </td>
-    </tr>
-    <tr>
       <td>
-        Oi
+        <table>
+          <th colspan=2>Personality</th>
+          <tr>
+            <td>Initiative</td>
+            <td><img src="https://progress-bar.dev/72" /></td>
+          </tr>
+          <tr>
+            <td>Support</td>
+            <td><img src="https://progress-bar.dev/83" /></td>
+          </tr>
+          <tr>
+            <td>Team Work</td>
+            <td><img src="https://progress-bar.dev/44" /></td>
+          </tr>
+        </table>
       </td>
     </tr>
     <tr>
