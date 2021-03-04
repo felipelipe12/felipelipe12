@@ -23,7 +23,7 @@
       </td>
       <td>
         <table>
-          <th>IT Warrior</th>
+          <th alogn="center">IT Warrior</th>
           <tr>
             <td><img src="https://www.vg-resource.com/uploads/avatars/avatar_2092.gif?dateline=1429483910" width="150" /></td>
           </tr>
