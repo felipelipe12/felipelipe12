@@ -22,7 +22,7 @@
             <td><img src="https://progress-bar.dev/63" /></td>
           </tr>
           <tr>
-            <td>Database</td>
+            <td>Dtabase</td>
             <td><img src="https://progress-bar.dev/46" /></td>
           </tr>
         </table>
