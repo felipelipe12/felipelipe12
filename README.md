@@ -4,7 +4,7 @@
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td align="center">
         <table>
           <th colspan=2>Personality</th>
           <tr>
@@ -29,7 +29,7 @@
           </tr>
         </table>
       </td>
-      <td>
+      <td align="center">
         <table>
           <th colspan=2>---</th>
           <tr>
@@ -48,7 +48,7 @@
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         <table>
           <th colspan=2>Programming Skill</th>
           <tr>
@@ -65,7 +65,7 @@
           </tr>
         </table>
       </td>
-      <td>
+      <td align="center">
         <table>
           <th colspan=2>Concepts</th>
           <tr>
@@ -82,7 +82,7 @@
           </tr>
         </table>
       </td>
-      <td>
+      <td align="center">
         <table>
           <th colspan=2>---</th>
           <tr>
