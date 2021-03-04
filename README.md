@@ -32,15 +32,6 @@
           <th colspan=2>Concepts</th>
           <tr>
             <td>UX / UI</td>
-            <td><img src="https://progress-bar.dev/77" /></td>
-          </tr>
-          <tr>
-            <td>da</td>
-            <td><img src="https://progress-bar.dev/0" /></td>
-          </tr>
-          <tr>
-            <td>da</td>
-            <td><img src="https://progress-bar.dev/0" /></td>
           </tr>
         </table>
       </td>
