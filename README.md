@@ -31,18 +31,18 @@
       </td>
       <td>
         <table>
-          <th colspan=2>Personality</th>
+          <th colspan=2>---</th>
           <tr>
-            <td>Initiative</td>
-            <td><img src="https://progress-bar.dev/72" /></td>
+            <td>Organization</td>
+            <td><img src="https://progress-bar.dev/97" /></td>
           </tr>
           <tr>
-            <td>Support</td>
-            <td><img src="https://progress-bar.dev/83" /></td>
+            <td>---</td>
+            <td><img src="https://progress-bar.dev/00" /></td>
           </tr>
           <tr>
-            <td>Team Work</td>
-            <td><img src="https://progress-bar.dev/44" /></td>
+            <td>---</td>
+            <td><img src="https://progress-bar.dev/00" /></td>
           </tr>
         </table>
       </td>
@@ -84,18 +84,18 @@
       </td>
       <td>
         <table>
-          <th colspan=2>Personality</th>
+          <th colspan=2>---</th>
           <tr>
-            <td>Initiative</td>
-            <td><img src="https://progress-bar.dev/72" /></td>
+            <td>---</td>
+            <td><img src="https://progress-bar.dev/00" /></td>
           </tr>
           <tr>
-            <td>Support</td>
-            <td><img src="https://progress-bar.dev/83" /></td>
+            <td>---</td>
+            <td><img src="https://progress-bar.dev/00" /></td>
           </tr>
           <tr>
-            <td>Team Work</td>
-            <td><img src="https://progress-bar.dev/44" /></td>
+            <td>---</td>
+            <td><img src="https://progress-bar.dev/00" /></td>
           </tr>
         </table>
       </td>
