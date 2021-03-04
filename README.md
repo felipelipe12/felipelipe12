@@ -15,15 +15,15 @@
           <th colspan=2>Programming Skill</th>
           <tr>
             <td>Front-End</td>
-            <td><img src="https://progress-bar.dev/85" /></td>
+            <td><img src="https://progress-bar.dev/88" /></td>
           </tr>
           <tr>
             <td>Back-End</td>
-            <td><img src="https://progress-bar.dev/60" /></td>
+            <td><img src="https://progress-bar.dev/63" /></td>
           </tr>
           <tr>
             <td>Database</td>
-            <td><img src="https://progress-bar.dev/50" /></td>
+            <td><img src="https://progress-bar.dev/46" /></td>
           </tr>
         </table>
       </td>
@@ -53,6 +53,10 @@
           </tr>
           <tr>
             <td>Support</td>
+            <td><img src="https://progress-bar.dev/100" /></td>
+          </tr>
+          <tr>
+            <td>Team Work</td>
             <td><img src="https://progress-bar.dev/100" /></td>
           </tr>
         </table>
