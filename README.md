@@ -2,9 +2,9 @@
 <!-------------------------------------------------------------------------- Languages & Technologies -------------------------------------------------------------------------->
 
 <div align="center">
-  <table height=1000>
+  <table>
     <tr>
-      <td align="center">
+      <td align="center" height=250>
         <table>
           <th colspan=2>Personality</th>
           <tr>
