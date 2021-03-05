@@ -2,7 +2,7 @@
 <!-------------------------------------------------------------------------- Languages & Technologies -------------------------------------------------------------------------->
 
 <div align="center">
-  <table>
+  <table width=50%>
     <tr>
       <td align="center">
         <table>
@@ -84,7 +84,7 @@
       </td>
       <td align="center">
         <table>
-          <th colspan=2>---</th>
+          <th colspan=2>Specialization</th>
           <tr>
             <td>---</td>
             <td><img src="https://progress-bar.dev/00" /></td>
