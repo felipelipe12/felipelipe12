@@ -4,7 +4,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" height=250>
+      <td align="center">
         <table>
           <th colspan=2>Personality</th>
           <tr>
