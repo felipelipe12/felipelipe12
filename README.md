@@ -41,7 +41,7 @@
             <td><img src="https://progress-bar.dev/52" /></td>
           </tr>
           <tr>
-            <td>Share Experience</td>
+            <td>Share XP</td>
             <td><img src="https://progress-bar.dev/84" /></td>
           </tr>
         </table>
