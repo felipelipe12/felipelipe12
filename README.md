@@ -8,16 +8,16 @@
         <table>
           <th colspan=2 width=250>Personality</th>
           <tr>
-            <td>Initiative</td>
-            <td><img src="https://progress-bar.dev/72" /></td>
+            <td align="center">Initiative</td>
+            <td align="center"><img src="https://progress-bar.dev/72" /></td>
           </tr>
           <tr>
-            <td>Support</td>
-            <td><img src="https://progress-bar.dev/83" /></td>
+            <td align="center">Support</td>
+            <td align="center"><img src="https://progress-bar.dev/83" /></td>
           </tr>
           <tr>
-            <td>---</td>
-            <td><img src="https://progress-bar.dev/00" /></td>
+            <td align="center">---</td>
+            <td align="center"><img src="https://progress-bar.dev/00" /></td>
           </tr>
         </table>
       </td>
@@ -33,16 +33,16 @@
         <table>
           <th colspan=2 width=250>Work</th>
           <tr>
-            <td>Organization</td>
-            <td><img src="https://progress-bar.dev/97" /></td>
+            <td align="center">Organization</td>
+            <td align="center"><img src="https://progress-bar.dev/97" /></td>
           </tr>
           <tr>
-            <td>Team Work</td>
-            <td><img src="https://progress-bar.dev/52" /></td>
+            <td align="center">Team Work</td>
+            <td align="center"><img src="https://progress-bar.dev/52" /></td>
           </tr>
           <tr>
-            <td>Share XP</td>
-            <td><img src="https://progress-bar.dev/84" /></td>
+            <td align="center">Share XP</td>
+            <td align="center"><img src="https://progress-bar.dev/84" /></td>
           </tr>
         </table>
       </td>
@@ -52,16 +52,16 @@
         <table>
           <th colspan=2 width=250>Programming Skill</th>
           <tr>
-            <td>Front-End</td>
-            <td><img src="https://progress-bar.dev/88" /></td>
+            <td align="center">Front-End</td>
+            <td align="center"><img src="https://progress-bar.dev/88" /></td>
           </tr>
           <tr>
-            <td>Back-End</td>
-            <td><img src="https://progress-bar.dev/63" /></td>
+            <td align="center">Back-End</td>
+            <td align="center"><img src="https://progress-bar.dev/63" /></td>
           </tr>
           <tr>
-            <td>Database</td>
-            <td><img src="https://progress-bar.dev/46" /></td>
+            <td align="center">Database</td>
+            <td align="center"><img src="https://progress-bar.dev/46" /></td>
           </tr>
         </table>
       </td>
@@ -69,16 +69,16 @@
         <table>
           <th colspan=2 width=250>Concepts</th>
           <tr>
-            <td>WEB Design</td>
-            <td><img src="https://progress-bar.dev/82" /></td>
+            <td align="center">WEB Design</td>
+            <td align="center"><img src="https://progress-bar.dev/82" /></td>
           </tr>
           <tr>
-            <td>UI / UX</td>
-            <td><img src="https://progress-bar.dev/70" /></td>
+            <td align="center">UI / UX</td>
+            <td align="center"><img src="https://progress-bar.dev/70" /></td>
           </tr>
           <tr>
-            <td>---</td>
-            <td><img src="https://progress-bar.dev/0" /></td>
+            <td align="center">---</td>
+            <td align="center"><img src="https://progress-bar.dev/0" /></td>
           </tr>
         </table>
       </td>
@@ -86,16 +86,16 @@
         <table>
           <th colspan=2 width=250>Agile Methodologies</th>
           <tr>
-            <td>Kanban</td>
-            <td><img src="https://progress-bar.dev/93" /></td>
+            <td align="center">Kanban</td>
+            <td align="center"><img src="https://progress-bar.dev/93" /></td>
           </tr>
           <tr>
-            <td>---</td>
-            <td><img src="https://progress-bar.dev/00" /></td>
+            <td align="center">---</td>
+            <td align="center"><img src="https://progress-bar.dev/00" /></td>
           </tr>
           <tr>
-            <td>---</td>
-            <td><img src="https://progress-bar.dev/00" /></td>
+            <td align="center">---</td>
+            <td align="center"><img src="https://progress-bar.dev/00" /></td>
           </tr>
         </table>
       </td>
