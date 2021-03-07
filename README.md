@@ -6,7 +6,7 @@
     <tr>
       <td align="center">
         <table>
-          <th colspan=2>Personality</th>
+          <th colspan=2 width=250>Personality</th>
           <tr>
             <td>Initiative</td>
             <td><img src="https://progress-bar.dev/72" /></td>
@@ -23,7 +23,7 @@
       </td>
       <td align="center">
         <table>
-          <th>IT Warrior</th>
+          <th width=250>IT Warrior</th>
           <tr>
             <td><img src="https://www.vg-resource.com/uploads/avatars/avatar_2092.gif?dateline=1429483910" width="150" /></td>
           </tr>
@@ -31,7 +31,7 @@
       </td>
       <td align="center">
         <table>
-          <th colspan=2>Work</th>
+          <th colspan=2 width=250>Work</th>
           <tr>
             <td>Organization</td>
             <td><img src="https://progress-bar.dev/97" /></td>
@@ -50,7 +50,7 @@
     <tr>
       <td align="center">
         <table>
-          <th colspan=2>Programming Skill</th>
+          <th colspan=2 width=250>Programming Skill</th>
           <tr>
             <td>Front-End</td>
             <td><img src="https://progress-bar.dev/88" /></td>
