@@ -38,7 +38,7 @@
           </tr>
           <tr>
             <td>Team Work</td>
-            <td><img src="https://progress-bar.dev/44" /></td>
+            <td><img src="https://progress-bar.dev/52" /></td>
           </tr>
           <tr>
             <td>---</td>
