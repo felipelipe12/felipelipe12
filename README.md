@@ -67,7 +67,7 @@
       </td>
       <td align="center">
         <table>
-          <th colspan=2>Concepts</th>
+          <th colspan=2 width=250>Concepts</th>
           <tr>
             <td>WEB Design</td>
             <td><img src="https://progress-bar.dev/82" /></td>
@@ -84,7 +84,7 @@
       </td>
       <td align="center">
         <table>
-          <th colspan=2>Agile Methodologies</th>
+          <th colspan=2 width=250>Agile Methodologies</th>
           <tr>
             <td>Kanban</td>
             <td><img src="https://progress-bar.dev/93" /></td>
