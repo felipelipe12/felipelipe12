@@ -86,8 +86,8 @@
         <table>
           <th colspan=2>Agile Methodologies</th>
           <tr>
-            <td>---</td>
-            <td><img src="https://progress-bar.dev/00" /></td>
+            <td>Kanban</td>
+            <td><img src="https://progress-bar.dev/93" /></td>
           </tr>
           <tr>
             <td>---</td>
