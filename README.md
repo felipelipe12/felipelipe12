@@ -16,8 +16,8 @@
             <td><img src="https://progress-bar.dev/83" /></td>
           </tr>
           <tr>
-            <td>Team Work</td>
-            <td><img src="https://progress-bar.dev/44" /></td>
+            <td>---</td>
+            <td><img src="https://progress-bar.dev/00" /></td>
           </tr>
         </table>
       </td>
@@ -31,14 +31,14 @@
       </td>
       <td align="center">
         <table>
-          <th colspan=2>---</th>
+          <th colspan=2>Work</th>
           <tr>
             <td>Organization</td>
             <td><img src="https://progress-bar.dev/97" /></td>
           </tr>
           <tr>
-            <td>---</td>
-            <td><img src="https://progress-bar.dev/00" /></td>
+            <td>Team Work</td>
+            <td><img src="https://progress-bar.dev/44" /></td>
           </tr>
           <tr>
             <td>---</td>
