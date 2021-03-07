@@ -23,9 +23,9 @@
       </td>
       <td align="center">
         <table>
-          <th align="center" width=250>IT Warrior</th>
+          <th width=250>IT Warrior</th>
           <tr>
-            <td><img src="https://www.vg-resource.com/uploads/avatars/avatar_2092.gif?dateline=1429483910" width="150" /></td>
+            <td align="center" ><img src="https://www.vg-resource.com/uploads/avatars/avatar_2092.gif?dateline=1429483910" width="150" /></td>
           </tr>
         </table>
       </td>
