@@ -69,12 +69,12 @@
         <table>
           <th colspan=2>Concepts</th>
           <tr>
-            <td>da</td>
-            <td><img src="https://progress-bar.dev/0" /></td>
+            <td>WEB Design</td>
+            <td><img src="https://progress-bar.dev/82" /></td>
           </tr>
           <tr>
             <td>UX / UI</td>
-            <td><img src="https://progress-bar.dev/77" /></td>
+            <td><img src="https://progress-bar.dev/66" /></td>
           </tr>
           <tr>
             <td>da</td>
