@@ -73,8 +73,8 @@
             <td><img src="https://progress-bar.dev/82" /></td>
           </tr>
           <tr>
-            <td>UX / UI</td>
-            <td><img src="https://progress-bar.dev/66" /></td>
+            <td>UI / UX</td>
+            <td><img src="https://progress-bar.dev/70" /></td>
           </tr>
           <tr>
             <td>---</td>
