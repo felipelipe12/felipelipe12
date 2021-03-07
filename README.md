@@ -77,14 +77,14 @@
             <td><img src="https://progress-bar.dev/66" /></td>
           </tr>
           <tr>
-            <td>da</td>
+            <td>---</td>
             <td><img src="https://progress-bar.dev/0" /></td>
           </tr>
         </table>
       </td>
       <td align="center">
         <table>
-          <th colspan=2>Specialization</th>
+          <th colspan=2>Agile Methodologies</th>
           <tr>
             <td>---</td>
             <td><img src="https://progress-bar.dev/00" /></td>
