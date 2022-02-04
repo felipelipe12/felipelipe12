@@ -1,4 +1,4 @@
-<h1>Roy</h1>
+<h1 style="background-color: blue;">Roy</h1>
 
 <!------------ Languages & Technologies ------------>
 
@@ -116,13 +116,13 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=FFFFFF" /> -->
   
   <!-- Back-End -->
-  <img src="https://img.shields.io/badge/JAVA-E51F24?style=flat&logo=java&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=FFFFFF" />
+  <!-- <img src="https://img.shields.io/badge/JAVA-E51F24?style=flat&logo=java&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=FFFFFF" /> -->
   
   <!-- Database -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF" />
+  <!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" /> -->
   
   <!-- Version controller -->
   <!-- <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
@@ -181,7 +181,7 @@
 
 # Github Stats -->
 <!-------------------------------------------------------------------------------- Github Stats -------------------------------------------------------------------------------->
-
+<!-- 
 <p> My stats. </p>
 <div align="center">
   <table>
@@ -197,7 +197,7 @@
 
 
 
-# Highlight Projects
+# Highlight Projects -->
 <!----------------------------------------------------------------------------- Highlight Projects ----------------------------------------------------------------------------->
 <!-- 
 <p> My best projects and contributions. </p>
