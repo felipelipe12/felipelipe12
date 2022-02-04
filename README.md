@@ -3,7 +3,7 @@ My name is Felipe and
 
 # Abilities
 ![Cat](https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif)
-]
+
 # 
 
 # 
@@ -24,12 +24,10 @@ My name is Felipe and
 
 
 <!------------ Languages & Technologies ------------>
-
-<style>
-  th, td {
-    border: none !important;
-  }
-</style>
+$ cat custom.css
+td, th {
+    border: 1px solid grey
+}
 
 <div align="center">
   <table>dsadsadsa
