@@ -3,13 +3,14 @@ My name is Felipe and
 
 # Abilities
 ![Cat](https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif)
+]
 # 
 
 # 
 
 # 
 
-# 
+# Trophies
 
 # 
 
@@ -24,7 +25,13 @@ My name is Felipe and
 
 <!------------ Languages & Technologies ------------>
 
-<!-- <div align="center">
+<style>
+  th, td {
+    border: none !important;
+  }
+</style>
+
+<div align="center">
   <table>dsadsadsa
     <tr>
       <td align="center">
@@ -124,7 +131,7 @@ My name is Felipe and
       </td>
     </tr>
   </table>
-</div> -->
+</div>
 
 
 <!-- # Languages & Technologies -->
