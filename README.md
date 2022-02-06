@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/badge/GitHub-4169E1?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
-___
-
+---
+<div align="center"></div>
 # Abilities
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=felipelipe12)
@@ -22,9 +22,11 @@ ___
 
 # Trophies
 
-# 
+---
 
-
+<div align="center">
+  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=felipelipe12)
+</div>
 
 
 
