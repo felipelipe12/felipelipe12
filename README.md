@@ -2,7 +2,7 @@
 My name is Felipe and
 
 # Abilities
-![Cat](https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif)
+![Banner](img/Banner.png)
 
 # 
 
