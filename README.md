@@ -4,8 +4,7 @@
   <img src="https://img.shields.io/badge/Telegram-4169E1?style=for-the-badge&logo=telegram&logoColor=white"/>
   <img src="https://img.shields.io/badge/WhatsApp-4169E1?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </div>
---
-Hello, my name is Felipe Almeida and welcome to my repository.
+
 
 # Abilities
 
