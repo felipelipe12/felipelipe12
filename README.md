@@ -1,8 +1,9 @@
-# Welcome to my repository
-My name is Felipe and
+![Banner](img/Banner.png)
+
+Hello, my name is Felipe Almeida and welcome to my repository.
 
 # Abilities
-![Banner](img/Banner.png)
+
 
 # 
 
@@ -24,10 +25,6 @@ My name is Felipe and
 
 
 <!------------ Languages & Technologies ------------>
-$ cat custom.css
-td, th {
-    border: 1px solid grey
-}
 
 <div align="center">
   <table>dsadsadsa
