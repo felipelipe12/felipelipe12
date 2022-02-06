@@ -3,10 +3,13 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Telegram-4169E1?style=for-the-badge&logo=telegram&logoColor=white"/>
   <img src="https://img.shields.io/badge/WhatsApp-4169E1?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Behance-4169E1?style=for-the-badge&logo=behance&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-4169E1?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
 ___
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 # Abilities
 
 
