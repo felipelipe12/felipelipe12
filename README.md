@@ -10,6 +10,7 @@
 
 ---
 <div align="center"></div>
+
 # Abilities
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=felipelipe12)
@@ -25,7 +26,7 @@
 ---
 
 <div align="center">
-  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=felipelipe12)
+  <img src="https://visitor-badge.glitch.me/badge?page_id=felipelipe12"/>
 </div>
 
 
