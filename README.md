@@ -1,5 +1,5 @@
 ![Banner](img/Banner.png)
-
+---
 Hello, my name is Felipe Almeida and welcome to my repository.
 
 # Abilities
