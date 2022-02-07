@@ -11,17 +11,17 @@
 ---
 <div align="center"></div>
 
-# Abilities
+# 📊 Abilities
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=felipelipe12)
-
-# 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=felipelipe12)
 
 # 
 
-# ff
+# 
 
-# Trophies
+# 📈 Graphics
+
+# 🏆 Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=felipelipe12&theme=flat&margin-w=5" />
@@ -30,7 +30,7 @@
 
 ---
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=felipelipe12)
 
 
 
