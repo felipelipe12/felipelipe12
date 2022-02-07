@@ -25,9 +25,9 @@
 
 ---
 
-<div align="center">
+
   ![](https://gitwar.herokuapp.com/badge?username=your-github-username&style=flat-square)
-</div>
+
 
 
 
