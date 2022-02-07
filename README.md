@@ -23,7 +23,9 @@
 
 # Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=felipelipe12)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=felipelipe12&theme=flat&margin-w=5" />
+</div>
 
 
 ---
