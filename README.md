@@ -26,7 +26,7 @@
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=felipelipe12"/>
+  ![](https://gitwar.herokuapp.com/badge?username=your-github-username&style=flat-square)
 </div>
 
 
