@@ -24,7 +24,7 @@
 # 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=felipelipe12&theme=flat&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=felipelipe12&theme=flat&title=Commits,Followers,Repositories&margin-w=5" />
 </div>
 
 
