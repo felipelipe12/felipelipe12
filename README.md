@@ -22,7 +22,8 @@
 # 📈 Graphics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipelipe12">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipelipe12">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelipe12">
 </div>
 
 # 🏆 Trophies
