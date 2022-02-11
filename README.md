@@ -22,7 +22,7 @@
 # 📈 Graphics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipelipe12}">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipelipe12">
 </div>
 
 # 🏆 Trophies
