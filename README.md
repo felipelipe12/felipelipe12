@@ -21,6 +21,10 @@ Hi! Welcome to the repository! Here, you can explore numerous templates in the v
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
 
+# Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 # 📊 Graphics
 
 <div align="center">
@@ -37,5 +41,6 @@ Hi! Welcome to the repository! Here, you can explore numerous templates in the v
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=felipelipe12"/>
+  <img src="https://visitor-badge.glitch.me/badge?style=for-the-badge&logo=appveyorpage_id=felipelipe12"/>
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=" />
 </div>
