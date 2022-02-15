@@ -9,14 +9,16 @@
 </div>
 
 ---
-<div align="center"></div>
+
+# 📘 About
+Hi! Welcome to the repository! Here, you can explore numerous templates in the various languages for your processes or projects. I hope you can save time or learn as much as possible about the technology you want.
+
 
 # 📊 Abilities
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=felipelipe12)
 
 # 
-<img src="img/teste1.png">
 
 # 
 
