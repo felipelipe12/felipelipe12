@@ -25,7 +25,7 @@ Hi! Welcome to the repository! Here, you can explore numerous templates in the v
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=felipelipe12">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelipe12">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelipe12&layout=compact&langs_count=6">
 </div>
 
 # 🏆 Trophies
