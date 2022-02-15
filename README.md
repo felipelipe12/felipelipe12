@@ -13,16 +13,15 @@
 # 📘 About
 Hi! Welcome to the repository! Here, you can explore numerous templates in the various languages for your processes or projects. I hope you can save time or learn as much as possible about the technology you want.
 
-
-# 📊 Abilities
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=felipelipe12)
+# 🖥️ Technologies
 
 # 
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 # 
 
-# 📈 Graphics
+# 📊 Graphics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=felipelipe12">
