@@ -36,4 +36,4 @@ Hi! Welcome to the repository! Here, you can explore numerous templates in the v
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=felipelipe12)
+<img src="https://visitor-badge.glitch.me/badge?page_id=felipelipe12"/>
