@@ -25,6 +25,7 @@ Hi! Welcome to the repository! Here, you can explore numerous templates in the v
   <img src="https://img.shields.io/badge/CSS3-4169E1?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-4169E1?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Chakra--UI-4169E1?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-4169E1?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-4169E1?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
 
