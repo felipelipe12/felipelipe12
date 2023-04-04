@@ -42,6 +42,5 @@ Hi! Welcome to the repository! Here, you can explore numerous templates in the v
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?style=for-the-badge&logo=appveyorpage_id=felipelipe12"/>
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=" />
 </div>
