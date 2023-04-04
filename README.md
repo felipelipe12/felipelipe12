@@ -13,9 +13,10 @@
 </div>
 
 
-
 # About
+
 Hi! Welcome to the repository! Here, you can explore numerous templates in the various languages for your processes or projects. I hope you can save time or learn as much as possible about the technology you want.
+
 
 # Technologies
 
@@ -27,10 +28,12 @@ Hi! Welcome to the repository! Here, you can explore numerous templates in the v
   <img src="https://img.shields.io/badge/Tailwind_CSS-4169E1?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
 
+
 # Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # Graphics
 
@@ -39,12 +42,12 @@ Hi! Welcome to the repository! Here, you can explore numerous templates in the v
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelipe12&layout=compact&langs_count=6">
 </div>
 
+
 # Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=felipelipe12&theme=flat&&margin-w=5" />
 </div>
-
 
 <div align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor="/>
