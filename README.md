@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Behance-4169E1?style=for-the-badge&logo=behance&logoColor=white"/>
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  <img src="https://img.shields.io/badge/website-4169E1?style=for-the-badge&logo=About.me&logoColor=white"/>
 </div>
 
 ---
