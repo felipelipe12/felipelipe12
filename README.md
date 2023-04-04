@@ -12,7 +12,7 @@
     </a>
 </div>
 
----
+
 
 # About
 Hi! Welcome to the repository! Here, you can explore numerous templates in the various languages for your processes or projects. I hope you can save time or learn as much as possible about the technology you want.
@@ -45,7 +45,6 @@ Hi! Welcome to the repository! Here, you can explore numerous templates in the v
   <img src="https://github-profile-trophy.vercel.app/?username=felipelipe12&theme=flat&&margin-w=5" />
 </div>
 
----
 
 <div align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor="/>
