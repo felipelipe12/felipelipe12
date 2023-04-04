@@ -1,4 +1,4 @@
-![Banner](img/Banner.png)
+<-- ![Banner](img/Banner.png) -->
 
 <div align="center">
   <img src="https://img.shields.io/badge/Telegram-4169E1?style=for-the-badge&logo=telegram&logoColor=white"/>
