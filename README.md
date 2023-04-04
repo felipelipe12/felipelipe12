@@ -1,9 +1,15 @@
 [comment]: ![Banner](img/Banner.png)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Behance-4169E1?style=for-the-badge&logo=behance&logoColor=white"/>
-  <img src="https://img.shields.io/badge/website-4169E1?style=for-the-badge&logo=About.me&logoColor=white"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Behance-4169E1?style=for-the-badge&logo=behance&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/website-4169E1?style=for-the-badge&logo=About.me&logoColor=white"/>
+    </a>
 </div>
 
 ---
