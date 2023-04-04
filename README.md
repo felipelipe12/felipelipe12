@@ -44,5 +44,5 @@ Hi! Welcome to the repository! Here, you can explore numerous templates in the v
 ---
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=" />
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor="/>
 </div>
