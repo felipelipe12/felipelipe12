@@ -41,5 +41,5 @@ Hi! Welcome to the repository! Here, you can explore numerous templates in the v
 # Trophies
 
 <div align="right">
-  <img src="https://github-profile-trophy.vercel.app/?username=felipelipe12&theme=algolia&margin-w=20&column=4&row=2" />
+  <img src="https://github-profile-trophy.vercel.app/?username=felipelipe12&theme=algolia&margin=20&column=4&row=2" />
 </div>
