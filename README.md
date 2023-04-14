@@ -39,7 +39,7 @@ Hi! Welcome to the repository! Here, you can explore numerous templates in the v
 </div>
 
 # Trophies
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipelipe12&theme_icons=algolia&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=felipelipe12&show_icons=true&theme=algolia
 <div align="right">
   <img src="https://github-profile-trophy.vercel.app/?username=felipelipe12&theme=algolia&margin-w=5" />
 </div>
