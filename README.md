@@ -53,7 +53,3 @@ Hi! Welcome to the repository! Here, you can explore numerous templates in the v
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=felipelipe12&theme=flat&&margin-w=5" />
 </div>
-
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor="/>
-</div>
