@@ -1,6 +1,6 @@
 [comment]: ![Banner](img/Banner.png)
 
-<div align="center">
+<div style="display: flex; gap: 50px;" align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
