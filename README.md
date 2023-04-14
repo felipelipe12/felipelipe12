@@ -9,7 +9,10 @@
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/website-4169E1?style=for-the-badge&logo=About.me&logoColor=white"/>
-    </a>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/website-4169E1?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
 </div>
 
 
