@@ -2,16 +2,16 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-050f2c?style=for-the-badge&logo=linkedin&logoColor=2dde98"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/-Behance-4169E1?style=for-the-badge&logo=behance&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Behance-050f2c?style=for-the-badge&logo=behance&logoColor=2dde98"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/website-4169E1?style=for-the-badge&logo=About.me&logoColor=white"/>
+    <img src="https://img.shields.io/badge/website-050f2c?style=for-the-badge&logo=About.me&logoColor=2dde98"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Vercel-4169E1?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vercel-050f2c?style=for-the-badge&logo=vercel&logoColor=2dde98"/>
   </a>
 </div>
 
@@ -24,18 +24,18 @@ Hi! Welcome to the repository! Here, you can explore numerous templates in the v
 # Technologies
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-4169E1?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-4169E1?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-4169E1?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chakra--UI-4169E1?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-4169E1?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-4169E1?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-050f2c?style=for-the-badge&logo=html5&logoColor=2dde98"/>
+  <img src="https://img.shields.io/badge/CSS3-050f2c?style=for-the-badge&logo=css3&logoColor=2dde98"/>
+  <img src="https://img.shields.io/badge/JavaScript-050f2c?style=for-the-badge&logo=javascript&logoColor=2dde98"/>
+  <img src="https://img.shields.io/badge/Chakra--UI-050f2c?style=for-the-badge&logo=chakra-ui&logoColor=2dde98"/>
+  <img src="https://img.shields.io/badge/TypeScript-050f2c?style=for-the-badge&logo=typescript&logoColor=2dde98"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-050f2c?style=for-the-badge&logo=tailwind-css&logoColor=2dde98"/>
 </div>
 
 # Graphics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipelipe12">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipelipe12&theme=algolia&show_icons=true">
 </div>
 
 
