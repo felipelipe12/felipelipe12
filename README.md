@@ -38,9 +38,8 @@ Hi! Welcome to the repository! Here, you can explore numerous templates in the v
   <img src="https://github-readme-stats.vercel.app/api?username=felipelipe12&theme=algolia&show_icons=true">
 </div>
 
-
 # Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=felipelipe12&theme=algolia&&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=felipelipe12&theme=algolia&margin-w=5&title=Commits,Followers,Stars" />
 </div>
