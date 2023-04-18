@@ -1,10 +1,14 @@
 [comment]: ![Banner](img/Banner.png)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-050f2c?style=for-the-badge&logo=linkedin&logoColor=2dde98"/>
-  <img src="https://img.shields.io/badge/-Behance-050f2c?style=for-the-badge&logo=behance&logoColor=2dde98"/>
+  <a href="https://www.linkedin.com/in/felipe-melo-de-almeida">
+    <img src="https://img.shields.io/badge/LinkedIn-050f2c?style=for-the-badge&logo=linkedin&logoColor=2dde98"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/-Behance-050f2c?style=for-the-badge&logo=behance&logoColor=2dde98"/>
+  </a>
   <img src="https://img.shields.io/badge/website-050f2c?style=for-the-badge&logo=About.me&logoColor=2dde98"/>
-  <img src="https://img.shields.io/badge/Vercel-050f2c?style=for-the-badge&logo=vercel&logoColor=2dde98"/>
+  <img src="(https://img.shields.io/badge/Vercel-050f2c?style=for-the-badge&logo=vercel&logoColor=2dde98)"
 </div>
 
 
