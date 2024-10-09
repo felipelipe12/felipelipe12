@@ -32,6 +32,6 @@ Hi! Welcome to the repository! Here, you can explore numerous templates in the v
 
 # Trophies
 
-<div align="center" style="margin: 10px;">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=felipelipe12&theme=algolia&column=4&margin-w=5" />
 </div>
