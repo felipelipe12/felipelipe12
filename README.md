@@ -20,6 +20,7 @@ Hi! Welcome to the repository! Here, you can explore numerous templates in the v
   <img src="https://img.shields.io/badge/next%20js-050f2c?style=for-the-badge&logo=nextdotjs&logoColor=2dde98">
   <img src="https://img.shields.io/badge/Chakra--UI-050f2c?style=for-the-badge&logo=chakra-ui&logoColor=2dde98"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-050f2c?style=for-the-badge&logo=tailwind-css&logoColor=2dde98"/>
+  <img src="https://img.shields.io/badge/Wordpress-050f2c?style=for-the-badge&logo=wordpress&logoColor=2dde98"/>
 </div>
 
 
