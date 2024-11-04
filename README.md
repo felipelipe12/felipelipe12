@@ -27,8 +27,8 @@ Hi! Welcome to the repository! Here, you can explore numerous templates in the v
 # Graphics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipelipe12&theme=algolia&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipelipe12&show_icons=true&theme=algolia&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipelipe12&theme=algolia&hide_border=true"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=felipelipe12&show_icons=true&theme=algolia&hide_border=true"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelipe12&langs_count=6&theme=algolia&layout=compact&hide_border=true">
 </div>
 
