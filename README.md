@@ -28,7 +28,7 @@ Hi! Welcome to the repository! Here, you can explore numerous templates in the v
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=felipelipe12&show_icons=true&theme=algolia&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelipe12&langs_count=6&include_all_commits=true&theme=algolia&layout=compact&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelipe12&include_all_commits=true&langs_count=8&theme=algolia&layout=compact&hide_border=true">
 </div>
 
 
